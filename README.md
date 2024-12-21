@@ -1,4 +1,5 @@
 # ERP-System-Manufacturing-Company-Database-project
+I have designed a database for (ERP)Enterprise Resource Planning System Manufacturing Company  
 Tools used:
 SQL Management Studio 20
 Key Features and Functionalities:
